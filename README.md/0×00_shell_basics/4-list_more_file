@@ -1,2 +1,2 @@
 #!/bin/bash/cwd
-ls -all -l /cwd
+ls -all -l /cwd/ chmod u+x file
