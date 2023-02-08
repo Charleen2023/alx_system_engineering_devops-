@@ -1,2 +1,2 @@
 #!/bin/bash/mkdir directory 
-/tmp/my_first_directory 
+/tmp/my_first_directory /chmod u+x file
