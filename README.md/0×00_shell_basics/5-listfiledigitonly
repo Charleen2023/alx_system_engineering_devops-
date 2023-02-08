@@ -1,2 +1,2 @@
 #!/bin/bash/less -all /cwd 
-*list file digit only
+*list file digit only/chmod u+x file
