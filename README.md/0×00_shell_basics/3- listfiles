@@ -1,2 +1,2 @@
 #!/bin/bash/0×00_shell_basics
- ls -l *cwd
+ ls -l *cwd/chmod u+x file
